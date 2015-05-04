@@ -37,7 +37,7 @@ Table of contents
   * http://aws.amazon.com/mobile/ - one year free plan, then you pay as you go
   
 ## Analytics
-  * https://www.appannie.com - mobile analytics with free plan (https://www.appannie.com/tours/store-stats/)
+  * https://www.appannie.com - analyze you app store sales data, free plan available
   * https://mixpanel.com - mobile analytics, free up to 25,000 data points
   * https://keen.io - Analytics for developers, free up to 50,000 event/month
   * http://www.google.com/analytics/mobile/
