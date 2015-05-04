@@ -64,6 +64,7 @@ Table of contents
 ## SMS
   * https://www.nexmo.com/ - APIs for SMS, Voice and phone verificatin, free trial then pay as you go
   * https://www.twilio.com/ - build voice and SMS powered application, free trial then pay as you go
+  * http://digitimate.com/ - verify user's mobile numbers via SMS, free and open source
   
 ## Crash & Exceptions handling
   * http://try.crashlytics.com/ - no more sad apps, available for free on invite
