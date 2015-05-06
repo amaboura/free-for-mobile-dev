@@ -61,7 +61,7 @@ Table of contents
 ## Showcase
   * https://play.google.com/store/apps/details?id=com.nll.screenrecorder - Free screen recorder app available on Android
   * https://vine.co/ - six seconds videos to show your incremental app features, Available on iOS & Android
-  * 
+  
 ## Payments
   * https://stripe.com/ - Mobile payment built for developers, 2.9% + 30¢ per successful charge
   * https://www.braintreepayments.com/landing/mobile-payments - full-stack mobile payments platform
