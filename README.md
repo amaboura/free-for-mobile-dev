@@ -11,10 +11,12 @@ Table of contents
 * [Analytics](#analytics)
 * [Notifications](#notifications)
 * [Monetization](#monetization)
+* [Showcase] (#showcase)
 * [Payments](#payments)
 * [SMS](#sms)
 * [Crash & Exceptions handling](#crash--exceptions-handling)
 * [Icons generation](#icons-generation)
+* [General guidance](#general-guidance)
 
 ##  Prototyping & Mockups
   * https://www.fluidui.com/ - Fast and friendly mobile prototyping, 1 project free up to 10 pages
@@ -56,6 +58,10 @@ Table of contents
   * http://www.kiip.me/developers/ - Make rewarding moments in your app
   * https://www.heyzap.com/, Transparent mediation on premium Ad network (iAd, Admob ..)
   
+## Showcase
+  * https://play.google.com/store/apps/details?id=com.nll.screenrecorder - Free screen recorder app available on Android
+  * https://vine.co/ - six seconds videos to show your incremental app features, Available on iOS & Android
+  * 
 ## Payments
   * https://stripe.com/ - Mobile payment built for developers, 2.9% + 30¢ per successful charge
   * https://www.braintreepayments.com/landing/mobile-payments - full-stack mobile payments platform
@@ -75,3 +81,6 @@ Table of contents
   * http://makeappicon.com/ - all icon sizes available
   * http://iconion.com/ - Free icon maker, available on Windows
   * http://ticons.fokkezb.nl/ - Generate Titanium icon & splash assets
+
+## General guidance
+  * https://github.com/adamwulf/app-launch-guide - an app pre-launch checklist
