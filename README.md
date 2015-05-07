@@ -22,6 +22,7 @@ Table of contents
   * https://www.fluidui.com/ - Fast and friendly mobile prototyping, 1 project free up to 10 pages
   * http://www.invisionapp.com/ - 1 project free
   * https://facebook.github.io/origami/ - free forever
+  * http://pttrns.com/ - UI inspiration for your next iOS & Android app, all for free
   
 ## Documentation
   * https://kapeli.com/dash - API Documentation browswer
