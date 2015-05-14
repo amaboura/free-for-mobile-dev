@@ -42,6 +42,8 @@ Table of contents
   * https://parse.com/ - simple and flexible, 20GB data storage/database for free
   * http://azure.microsoft.com/en-us/services/app-service/mobile/, build engaging mobile apps, free / pay as you go
   * https://www.firebase.com/ - Build realtime apps, free plan available
+  * https://pusher.com/ - build real-time apps, free plan includes 20 max connections, 100k messages per day
+  * https://layer.com/ - communication backend - Free plan includes 1,000 monthly active users, 1GB data transfer
   * https://backendless.com/ - free plan available
   * http://aws.amazon.com/mobile/ - one year free plan, then you pay as you go
   
