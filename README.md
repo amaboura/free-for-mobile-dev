@@ -46,6 +46,7 @@ Table of contents
   * https://layer.com/ - communication backend - Free plan includes 1,000 monthly active users, 1GB data transfer
   * https://backendless.com/ - free plan available
   * http://aws.amazon.com/mobile/ - one year free plan, then you pay as you go
+  * http://aws.amazon.com/lambda/ - scalable mobile backend, part of the AWS family, SDK available on both Android & iOS
   
 ## Analytics
   * https://www.appannie.com - analyze you app store sales data, free plan available
