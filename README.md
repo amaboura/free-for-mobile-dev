@@ -29,6 +29,8 @@ Table of contents
 ## UI Components
   * https://www.cocoacontrols.com/ - thousands of opensource and commercial UI controls for iOS
   * https://android-arsenal.com/ - Free custom UI controls for Android
+  * https://github.com/wasabeef/awesome-android-ui - a curated list of Android UI components
+  * https://github.com/cjwirth/awesome-ios-ui - a curated list of iOS UI components
   
 ## Documentation
   * https://kapeli.com/dash - API Documentation browswer
