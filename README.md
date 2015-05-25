@@ -5,7 +5,7 @@ Table of contents
 ===================
 
 * [Prototyping & Mockups] (#prototyping--mockups)
-* [UI Components] (#ui-components)
+* [UI & UX] (#ui--ux)
 * [Documentation] (#documentation)
 * [Testing] (#testing)
 * [BaaS] (#baas)
@@ -26,11 +26,12 @@ Table of contents
   * https://facebook.github.io/origami/ - free forever
   * http://pttrns.com/ - UI inspiration for your next iOS & Android app, all for free
 
-## UI Components
+## UI & UX
   * https://www.cocoacontrols.com/ - thousands of opensource and commercial UI controls for iOS
   * https://android-arsenal.com/ - Free custom UI controls for Android
   * https://github.com/wasabeef/awesome-android-ui - a curated list of Android UI components
   * https://github.com/cjwirth/awesome-ios-ui - a curated list of iOS UI components
+  * http://uxchecklist.github.io/ - a full UX checklist
   
 ## Documentation
   * https://kapeli.com/dash - API Documentation browswer
