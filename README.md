@@ -94,6 +94,7 @@ Table of contents
   * http://makeappicon.com/ - all icon sizes available
   * http://iconion.com/ - Free icon maker, available on Windows
   * http://ticons.fokkezb.nl/ - Generate Titanium icon & splash assets
+  * https://www.google.com/design/icons/index.html - Material design icons generator, export to SVG & PNG 
 
 ## General guidance
   * https://github.com/adamwulf/app-launch-guide - an app pre-launch checklist
